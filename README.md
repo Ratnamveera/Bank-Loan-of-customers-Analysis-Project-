@@ -1,4 +1,4 @@
-# Bank-Loan-of-customers-Analysis-Project-
+# Bank-Loan-Analysis-Project-
 This is a bank loan for a customer's project where we were provided with 2 datasets with .csv extension files having 39k rows each. The objective was to analyze the growth that the bank got within the given years in loans.
 We used MS Excel and MySQL to analyze, clean, and remove duplicates from the dataset. We also prepared dashboards using Tableau and PowerBI tools, where we did calculations, merged, and prepared interactive dashboards.
 # Data Cleaning: 
